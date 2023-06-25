@@ -1,5 +1,5 @@
 # 📝 About Me:
-I'm learning C#,backend development and system administration.<br>👨‍💻I develop programs and more on C#.<br>🖥 Using Fedora linux.<br>⌨️ Currently working on my RAGE MP server for GTA5.
+I'm learning C#,backend development and system administration.<br>👨‍💻I develop programs and more on C#.<br>🖥 Using Manjaro linux.<br>⌨️ Currently working on my RAGE MP server for GTA5.
 
 
 ## 🌐 Socials:

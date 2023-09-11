@@ -1,5 +1,5 @@
 # 📝 About Me:
-I'm learning C#,backend development and system administration.<br>👨‍💻I develop programs and more on C#.<br>🖥 Using Manjaro linux.<br>⌨️ Currently working on my RAGE MP server for GTA5.
+I'm learning python(for DevOps and system administration.<br>👨‍💻.<br>🖥 Using Manjaro linux.<br>⌨️ Currently working on: nothing.
 
 
 ## 🌐 Socials:

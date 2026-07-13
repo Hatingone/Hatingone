@@ -1,5 +1,6 @@
 # 📝 About Me:
-I'm a systems and network admin, and an aspiring network engineer. love everything related to the internet
+I'm a systems and network admin, and an aspiring network engineer. love everything related to the internet, cisco and cloudflare
+Also have expirience with cisco hardware, routing, packet tracer.
 
 
 ## 🌐 Socials:

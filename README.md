@@ -1,5 +1,5 @@
 # 📝 About Me:
-I'm learning python(for DevOps and system administration.<br>👨‍💻.<br>🖥 Using Manjaro linux.<br>⌨️ Currently working on: nothing.
+I'm a systems and network admin, and an aspiring network engineer. love everything related to the internet
 
 
 ## 🌐 Socials:
